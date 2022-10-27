@@ -1,3 +1,6 @@
+-------------Collaborative whiteboard projectResume:
+1. Read the the readme, then update the readme and make video demo, description for resume.
+
 
 ## Collaborative Whiteboard - Socket.IO 
 
